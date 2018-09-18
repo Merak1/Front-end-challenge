@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  font-family: roboto;
+
+}
+.Root{
+  padding: 20px; margin: 30px;
+  background-color: rgb(144, 60, 60);
+}
+.Root ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  
+}
+.Root li {
+  padding-right: 15px;
+}
+.bread-crumb{
+  /* mandar a la derecha */
+}
+
+.nav-links a{
+  text-decoration: none;
+  color: #F2F5F6;
+}
